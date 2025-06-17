@@ -2,20 +2,9 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+[Your+Name]+👋;Full+Stack+Developer+💻;Open+Source+Enthusiast+🚀;Always+Learning+New+Things+📚)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+[lil-bro-code]+👋;The+Lazy+People+💻;Open+Source+Enthusiast+🚀;Always+Learning+New+Game+😹)
   
 </div>
-
----
-
-## 🚀 About Me
-
-javascript
-const developer = {
-    name: "lil-bro-code",
-    role: "Programer Pemalas",
-};
-
 
 ---
 
