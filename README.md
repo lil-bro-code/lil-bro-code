@@ -8,14 +8,7 @@
 
 ---
 
-## 🔥 My GitHub Stats
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
-  
-</div>
+## 🔥 My GitHub Stats 🔥
 
 <div align="center">
   
@@ -69,19 +62,6 @@
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00d9ff&style=for-the-badge)
-  
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio.com)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
   
 </div>
 
