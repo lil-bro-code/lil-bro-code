@@ -8,16 +8,6 @@
 
 ---
 
-## 🔥 My GitHub Stats 🔥
-
-<div align="center">
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-  
-</div>
-
----
-
 ## 🎯 Current Projects & Focus
 
 <div align="center">
@@ -37,31 +27,21 @@
 
 ---
 
+## 🔥 My GitHub Stats 🔥
+
+<div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+  
+</div>
+
+---
+
 ## 🎵 Spotify Playing
 
 <div align="center">
   
   ![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
-  
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
-  
-</div>
-
----
-
-## 📈 Profile Views
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00d9ff&style=for-the-badge)
   
 </div>
 
