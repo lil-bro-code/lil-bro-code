@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+[lil-bro-code]+👋;The+Lazy+People+💻;Open+Source+Enthusiast+🚀;Always+Learning+New+Game+😹)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+lil-bro-code+👋;The+Lazy+People+💻;Always+Learning+New+Game+😹)
   
 </div>
 
@@ -32,16 +32,6 @@
 <div align="center">
   
   ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-  
-</div>
-
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  
-  ![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
   
 </div>
 
