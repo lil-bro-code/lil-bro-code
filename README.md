@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I’m lil-bro-code!
 
-<!--
-**lil-bro-code/lil-bro-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🎓 I’m a software engineering student.
+- 🌐 Web developer at heart: I love working with **HTML**, **CSS**, and **JavaScript**.
+- ⚡ Favorite framework: **Laravel**
+- 🛠️ Favorite tool: **Visual Studio Code**
+- 🚀 Currently learning: **APIs** (this is my furthest project so far!)
+- 🎮 When I’m not coding, you’ll probably find me gaming.
+- 😹 Fun fact: Sometimes I’m just too lazy to code… but hey, everyone needs a break!
 
-Here are some ideas to get you started:
+## 🤖 My Vibes
+- 🖼️ I like my GitHub avatar!
+- 🌙 Always in dark theme
+- 😹 Favorite emoji: `😹`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> _“Sorry, I’m too lazy for that ;)”_
